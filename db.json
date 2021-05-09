@@ -80,5 +80,157 @@
          "year":2010,
          "poster":"https:\/\/images.kinopoisk.cloud\/posters\/576183.jpg"
       }
+   ],
+   "pets":[
+	{
+		"id":1,
+		"shelterId":1,
+		"kind":"cat",
+		"title":"My lovely cat",
+		"description":"Test large description. Test large description. Test large description. Test large description. Test large description. Test large description.",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-01"
+	},
+	{
+		"id":2,
+		"shelterId":1,
+		"kind":"dog",
+		"title":"Hehey dog",
+		"description":"Small description",
+		"images":[],
+		"status":"reserved",
+		"date":"2021-05-05"
+	},
+	{
+		"id":3,
+		"shelterId":1,
+		"kind":"cat",
+		"title":"Catcatacat",
+		"description":"empty",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-02"
+	},
+	{
+		"id":4,
+		"shelterId":1,
+		"kind":"cat",
+		"title":"Cat2",
+		"description":"",
+		"images":[],
+		"status":"closed",
+		"date":"2021-05-02"
+	},
+	{
+		"id":5,
+		"shelterId":2,
+		"kind":"dog",
+		"title":"Bulldog",
+		"description":"",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-05"
+	},
+	{
+		"id":6,
+		"shelterId":2,
+		"kind":"dog",
+		"title":"Doggy rrrr",
+		"description":"",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-09"
+	},
+	{
+		"id":7,
+		"shelterId":3,
+		"kind":"cat",
+		"title":"Catson",
+		"description":"",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-02"
+	},
+	{
+		"id":8,
+		"shelterId":1,
+		"kind":"cat",
+		"title":"Kitten",
+		"description":"",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-09"
+	},
+	{
+		"id":9,
+		"shelterId":3,
+		"kind":"dog",
+		"title":"Small dog",
+		"description":"",
+		"images":[],
+		"status":"reserved",
+		"date":"2021-05-09"
+	},
+	{
+		"id":10,
+		"shelterId":3,
+		"kind":"cat",
+		"title":"Catty",
+		"description":"",
+		"images":[],
+		"status":"opened",
+		"date":"2021-05-09"
+	},
+   ],
+   "shelters":[
+	{
+		"id":1,
+		"title":"Moscow public shelter",
+		"description":"Cool shelter",		
+		"location":"Moscow",
+		"contacts":{
+			"email":"myemail@email.com",
+			"phone":"898989898989",
+			"url":"",
+			"vk":"",
+			"instagram":"@instagram",
+			"youtube":"",
+		},
+		"images":[],
+		"date":"2021-05-01"
+	},
+	{
+		"id":2,
+		"title":"Europe shelter",
+		"description":"Shelter",		
+		"location":"Paris",
+		"contacts":{
+			"email":"myemail@email.com",
+			"phone":"898989898989",
+			"url":"",
+			"vk":"",
+			"instagram":"@instagram",
+			"youtube":"",
+		},
+		"images":[],
+		"date":"2021-05-02"
+	},
+	{
+		"id":3,
+		"title":"Vladik shelter",
+		"description":"Vladik shelter",		
+		"location":"Vladivostok",
+		"contacts":{
+			"email":"myemail@email.com",
+			"phone":"898989898989",
+			"url":"",
+			"vk":"",
+			"instagram":"@instagram",
+			"youtube":"",
+		},
+		"images":[],
+		"date":"2021-05-02"
+	},
    ]
 }
