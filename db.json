@@ -1,8 +1,8 @@
 {
    "pets":[
       {
-         "id":1,
-         "shelterId":1,
+         "id":"1",
+         "shelterId":"1",
          "kind":"cat",
          "title":"My lovely cat",
          "description":"Test large description. Test large description. Test large description. Test large description. Test large description. Test large description.",
@@ -15,8 +15,8 @@
          "date":"2021-05-01"
       },
       {
-         "id":2,
-         "shelterId":1,
+         "id":"2",
+         "shelterId":"1",
          "kind":"dog",
          "title":"Hehey dog",
          "description":"Small description",
@@ -27,8 +27,8 @@
          "date":"2021-05-05"
       },
       {
-         "id":3,
-         "shelterId":1,
+         "id":"3",
+         "shelterId":"1",
          "kind":"cat",
          "title":"Catcatacat",
          "description":"empty",
@@ -39,8 +39,8 @@
          "date":"2021-05-02"
       },
       {
-         "id":4,
-         "shelterId":1,
+         "id":"4",
+         "shelterId":"1",
          "kind":"cat",
          "title":"Cat2",
          "description":"",
@@ -51,8 +51,8 @@
          "date":"2021-05-02"
       },
       {
-         "id":5,
-         "shelterId":2,
+         "id":"5",
+         "shelterId":"2",
          "kind":"dog",
          "title":"Bulldog",
          "description":"",
@@ -63,8 +63,8 @@
          "date":"2021-05-05"
       },
       {
-         "id":6,
-         "shelterId":2,
+         "id":"6",
+         "shelterId":"2",
          "kind":"dog",
          "title":"Doggy rrrr",
          "description":"",
@@ -75,8 +75,8 @@
          "date":"2021-05-09"
       },
       {
-         "id":7,
-         "shelterId":3,
+         "id":"7",
+         "shelterId":"3",
          "kind":"cat",
          "title":"Catson",
          "description":"",
@@ -87,8 +87,8 @@
          "date":"2021-05-02"
       },
       {
-         "id":8,
-         "shelterId":1,
+         "id":"8",
+         "shelterId":"1",
          "kind":"cat",
          "title":"Kitten",
          "description":"",
@@ -99,8 +99,8 @@
          "date":"2021-05-09"
       },
       {
-         "id":9,
-         "shelterId":3,
+         "id":"9",
+         "shelterId":"3",
          "kind":"dog",
          "title":"Small dog",
          "description":"",
@@ -111,8 +111,8 @@
          "date":"2021-05-09"
       },
       {
-         "id":10,
-         "shelterId":3,
+         "id":"10",
+         "shelterId":"3",
          "kind":"cat",
          "title":"Catty",
          "description":"",
@@ -125,7 +125,7 @@
    ],
    "shelters":[
       {
-         "id":1,
+         "id":"1",
          "title":"Moscow public shelter",
          "description":"Cool shelter",
          "location":"Moscow",
@@ -143,7 +143,7 @@
          "date":"2021-05-01"
       },
       {
-         "id":2,
+         "id":"2",
          "title":"Europe shelter",
          "description":"Shelter",
          "location":"Paris",
@@ -161,7 +161,7 @@
          "date":"2021-05-02"
       },
       {
-         "id":3,
+         "id":"3",
          "title":"Vladik shelter",
          "description":"Vladik shelter",
          "location":"Vladivostok",
