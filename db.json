@@ -22,7 +22,7 @@
          "tagline":"«Live from London 2007»",
          "description":"Грандиозный концерт группы Led Zeppelin на площадке O2 Arena в Лондоне, который посетили 18 тысяч зрителей из 20 миллионов желающих.",
          "year":2012,
-         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/710071.jpg"         
+         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/710071.jpg"
       },
       {
          "id":117141,
@@ -30,7 +30,7 @@
          "tagline":"«Подарите себе шанс вновь возвратиться в волшебный мир, созданный А. С. Пушкиным.»",
          "description":"Сказки - это то, что остается у каждого человека от детства. Подарите себе шанс вновь возвратиться в волшебный мир, созданный А. С. Пушкиным. Приключения отважного царевича Гвидона, прекрасной царевны-Лебедь и царя Салтана напомнят о том, что любовь, верности и сила духа всегда побеждают!",
          "year":1984,
-         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/43814.jpg"         
+         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/43814.jpg"
       },
       {
          "id":44215,
@@ -38,7 +38,7 @@
          "tagline":"«Время не помогает забыть о родном доме... 1987»",
          "description":"Фильм про молодого человека, который, сам того не желая, оказался в дали от родины, от корней. Но время не помогает ему забыть о родном доме",
          "year":1987,
-         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/42966.jpg"         
+         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/42966.jpg"
       },
       {
          "id":250021,
@@ -46,7 +46,7 @@
          "tagline":"«Manifest Destiny tagline 2008»",
          "description":"Manifest Destiny description",
          "year":2008,
-         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/442250.jpg"         
+         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/442250.jpg"
       },
       {
          "id":443007,
@@ -70,7 +70,7 @@
          "tagline":"«Никто не видел его страданий... 1982»",
          "description":"В дореволюционное время крестьянин, решив единственного сына вывести в люди, отвез его в город в услужение к зажиточному купцу. Не найдя в чужом доме ни тепла, ни ласки, мальчик затосковал по дому. Кто-то завидовал одетому и накормленному маленькому приказчику, но никто не видел его страданий",
          "year":1982,
-         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/44504.jpg"         
+         "poster":"https:\/\/images.kinopoisk.cloud\/posters\/44504.jpg"
       },
       {
          "id":570976,
@@ -80,5 +80,5 @@
          "year":2010,
          "poster":"https:\/\/images.kinopoisk.cloud\/posters\/576183.jpg"
       }
-   ],
+   ]
 }
